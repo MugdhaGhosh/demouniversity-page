@@ -97,7 +97,7 @@ nav a:hover {
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
-/* FORM */
+
 .form {
   max-width: 500px;
   margin: auto;
@@ -196,7 +196,7 @@ footer {
   font-size: 24px;
 }
 
-/* About image */
+
 .img {
   width: 100%;
   max-width: 850px;
@@ -211,7 +211,7 @@ footer {
   transform: scale(1.02);
 }
 
-/* LIST STYLE (faculty or points) */
+
 .page ul {
   list-style: none;
   padding: 0;
@@ -234,7 +234,7 @@ footer {
   background: #f0f4ff;
 }
 
-/* GRID CARDS (Faculty section) */
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -275,7 +275,7 @@ footer {
   margin-bottom: 40px;
 }
 
-/* STATS GRID */
+
 .stats {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -302,7 +302,7 @@ footer {
   margin-bottom: 5px;
 }
 
-/* CTA BOX */
+
 .cta {
   margin-top: 60px;
   padding: 40px;
@@ -325,8 +325,6 @@ footer {
 }
 
 
-
-/* APPLICATION PAGE */
 
 .application-section {
   display: flex;
@@ -401,7 +399,7 @@ footer {
   background: #102861;
 }
 
-/* MOBILE */
+
 
 @media(max-width: 900px){
 
